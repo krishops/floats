@@ -2,6 +2,8 @@
   width: 25%;
   float: right;
   background-color: aqua;
+  border: solid black;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -18,4 +20,5 @@ p {
   width: 300;
   height: 300;
   float: left;
+  padding: 4px;
 }
