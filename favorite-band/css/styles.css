@@ -1,0 +1,21 @@
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: aqua;
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: left;
+}
+
+.image {
+  width: 300;
+  height: 300;
+  float: left;
+}
